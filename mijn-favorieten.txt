@@ -1,3 +1,7 @@
 1. gorilla
 2. wolf
 3. kat
+
+1. kickboksen
+2. chillen
+3. voetballen
